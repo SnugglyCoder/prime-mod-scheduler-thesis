@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" modified="2023-07-17T17:38:17.452Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EMzLwtv7CrquUbX7DAb5" version="21.6.1" type="device">
+  <diagram name="Page-1" id="Zv4s3K4KTnoDXICcthFR">
+    <mxGraphModel dx="2074" dy="1160" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-41" value="Queue 3" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="175" width="800" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-56" value="Queue 7" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="870" width="800" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-65" value="Back-Half" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260" y="900" width="760" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-47" value="Queue 5" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="800" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-64" value="Back-Half" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="710" y="205" width="310" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-62" value="Back-Half" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="570" y="600" width="440" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-1" value="Queue 2" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="240" width="800" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-53" value="Front-Half" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260" y="30" width="760" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-63" value="Front-Half" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="260" y="205" width="450" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-2" value="Process 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-6" value="Process 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-7" value="Process 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-8" value="Process 3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-54" value="Front-Half" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="250" y="600" width="320" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-9" value="Process 4" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-48" value="Process 5" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="235" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-49" value="Process 6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="235" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-50" value="Process 7" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="235" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-51" value="Process 8" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="235" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-52" value="Process 9" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="235" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-57" value="Process 10" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-58" value="Process 11" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-59" value="Process 12" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-60" value="Process 13" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-61" value="Process 14" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="630" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-68" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CpkHu3RVaLWwvNUr8rWz-69" target="CpkHu3RVaLWwvNUr8rWz-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="910" as="sourcePoint" />
+            <mxPoint x="360" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-69" value="If Process10 were to yield because of waiting on I/O, it would enter Queue3 behind Process17, the &#39;back of the front-half&#39; of the queue.&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;If it were to use its allotted time, then it would enter Queue7 at the &#39;back of the back-half&#39;, which is really the entire queue since there is no queue below Queue7" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="560" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-70" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CpkHu3RVaLWwvNUr8rWz-72" target="CpkHu3RVaLWwvNUr8rWz-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-170" y="25" as="sourcePoint" />
+            <mxPoint y="25" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-72" value="If Process5 were to yield because of waiting on I/O, then the process would enter Queue2 at the &#39;back of the front-half&#39; of the queue, which would place it behind process 4.&lt;br style=&quot;font-size: 16px;&quot;&gt;&lt;br style=&quot;font-size: 16px;&quot;&gt;On the other hand, if it were to use all of its allotted time, it would enter Queue5 at the &#39;back of the back-half&#39; of the queue, placing it behind Process14" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="170" width="200" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-73" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CpkHu3RVaLWwvNUr8rWz-74" target="CpkHu3RVaLWwvNUr8rWz-56">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="80" y="610" as="sourcePoint" />
+            <mxPoint x="90" y="585" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-74" value="Since Queue7 is empty, if invocationCounter % 7 == 0, then Queue 2 would be chosen instead since it is the highest priority queue with at least one process in it" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="875" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-75" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CpkHu3RVaLWwvNUr8rWz-78" target="CpkHu3RVaLWwvNUr8rWz-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="80" as="sourcePoint" />
+            <mxPoint x="140" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-76" value="If invocationCounter is 9, then it would point to a queue that doesn&#39;t exist so Queue2 would be chosen instead" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1060" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-77" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="CpkHu3RVaLWwvNUr8rWz-76">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="1080" as="sourcePoint" />
+            <mxPoint x="420" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CpkHu3RVaLWwvNUr8rWz-78" value="If invocationCounter is equal to 26, then Queue2 would be chosen because 26 % 2 = 0 and Process0 would be ran" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="40" y="7.5" width="170" height="145" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
